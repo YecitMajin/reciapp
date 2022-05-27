@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecicApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="registr">Registró</string>
+    <string name="registrarse">Resgistrarse</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu Contraseña?</string>
+</resources>
