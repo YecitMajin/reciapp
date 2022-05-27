@@ -6,4 +6,10 @@
     <string name="registr">Registró</string>
     <string name="registrarse">Resgistrarse</string>
     <string name="olvidaste_tu_contrase_a">¿Olvidaste tu Contraseña?</string>
+    <string name="nombres">Nombres</string>
+    <string name="apallidos">Apallidos</string>
+    <string name="celular">Celular</string>
+    <string name="departamento">Departamento</string>
+    <string name="municipio">Municipio</string>
+    <string name="no_identificaci_n">No-Identificación</string>
 </resources>
